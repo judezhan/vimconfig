@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/home/jude/Workspace/google-authenticator/mobile/ios'
+let g:netrw_dirhist_2='/home/jude/.vim'
+let g:netrw_dirhist_3='/home/jude/Workspace/vimconfig/_vim/bundle/git'
+let g:netrw_dirhist_4='/home/jude/Workspace/dotfiles/_fonts'
